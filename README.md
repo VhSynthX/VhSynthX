@@ -1,7 +1,7 @@
 <h1 align="center">💀VhSynth</h1>
 
 <p align="center">
-  🎓 18 anos | 💻 Fullstack Developer | Victor Hugo
+  🎓 Victor Hugo | 18 anos | 💻 Fullstack Developer | 
 </p>
 
 ---
