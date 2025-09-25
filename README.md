@@ -1,4 +1,4 @@
-<h1 align="center">💀 VhSynthX - Hacker Cinematográfico</h1>
+<h1 align="center">💀VhSynth</h1>
 
 <p align="center">
   🎓 18 anos | 💻 Fullstack Developer | 🚀 Apaixonado por Tecnologia
