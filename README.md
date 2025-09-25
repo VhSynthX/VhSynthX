@@ -8,7 +8,7 @@
 
 ## 👾 Sobre mim
 - 🔹 Estudante de **Análise e Desenvolvimento de Sistemas**  
-- 🔹 Programador **Back-End, Front-End, Desenvolvedor Web e Cybersecurity**
+- 🔹 Programador **Back-End, Front-End, Desenvolvedor Web e Cibersegurança**
 - 🔹 Experiência com **Python, C, C++, Java, TypeScript, JavaScript, Django**   
 
 ---
