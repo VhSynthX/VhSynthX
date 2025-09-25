@@ -1,15 +1,30 @@
-<h1 align="center">💀VhSynth</h1>
+<p align="center">
+⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛  
+⬛⬛⬛⬛⬜⬜⬜⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛  
+⬛⬛⬛⬜🐱🐱⬜⬛⬛⬛⬛⬛⬛⬜🐱🐱⬜⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛  
+⬛⬛⬛⬜🐱⬜🐱⬛⬛⬛⬛⬛⬛⬜🐱⬜🐱⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛  
+⬛⬛⬛⬛⬜⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛  
+⬛⬛⬛⬛⬜⬜⬛⬛⬛⬛⬛⬛⬛⬜⬜⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛  
+⬛⬛⬛⬜⬛⬜⬜⬜⬛⬛⬛⬛⬛⬛⬜⬜⬜⬛⬜⬛⬛⬛⬛⬛⬛⬛⬛  
+⬛⬛⬛⬜⬛⬜⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬛⬜⬛⬛⬛⬛⬛⬛⬛  
+⬛⬛⬛⬛⬜⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛  
+⬛⬛⬛⬛⬜⬜⬜⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛  
+⬛⬛⬛⬛⬛⬜⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛  
+⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛  
+</p>
+
+<h1 align="center">💀 VhSynth 💻</h1>
 
 <p align="center">
-  🎓 Victor Hugo | 18 anos | 💻 Fullstack Developer | 
+🎓 Victor Hugo | 18 anos | Fullstack Developer | 👾 Hacker Mindset
 </p>
 
 ---
 
 ## 👾 Sobre mim
 - 🔹 Estudante de **Análise e Desenvolvimento de Sistemas**  
-- 🔹 Programador **Back-End, Front-End, Desenvolvedor Web e Cibersegurança**
-- 🔹 Experiência com **Python, C, C++, Java, TypeScript, JavaScript, Django**   
+- 🔹 Programador **Back-End, Front-End, Web & Cibersegurança**  
+- 🔹 Experiência com **Python, C, C++, Java, TypeScript, JavaScript, Django**  
 
 ---
 
@@ -31,25 +46,29 @@
 
 ---
 
-## 🌐 Contatos
+## 🌐 Redes Sociais Animadas
 
 <p align="center">
+<a href="https://github.com/VhSynthX" target="_blank">
+  ![GitHub followers](https://img.shields.io/github/followers/VhSynthX?style=social)
+</a> &nbsp;&nbsp;
 <a href="https://www.instagram.com/_victorr.zx7" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
+  ![Instagram](https://img.shields.io/badge/Instagram-📸-E4405F?style=for-the-badge)
+</a> &nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/victor-h-84273b2bb" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+  ![LinkedIn](https://img.shields.io/badge/LinkedIn-💼-0077B5?style=for-the-badge)
+</a> &nbsp;&nbsp;
 <a href="https://wa.me/5521968230101" target="_blank">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  ![WhatsApp](https://img.shields.io/badge/WhatsApp-📱-25D366?style=for-the-badge)
 </a>
 </p>
 
 ---
 
-## ⚡ Mindset Hacker
+## ⚡ Mindset Hacker Animado
 
 ```bash
-> echo "Code, Create, Dominate."
-> print("No excuses, just results.")
-> console.log("Always learning, always evolving.")
+> echo "Code, Create, Dominate."  
+> print("No excuses, just results.")  
+> console.log("Always learning, always evolving.")  
+> echo "🚀💻👾🔥"  
