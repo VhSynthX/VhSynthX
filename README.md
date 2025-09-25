@@ -1,8 +1,3 @@
-<!-- Banner Hacker Neon Animado -->
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="100%">
-</p>
-
 <h1 align="center">💀 VhSynthX - Hacker Cinematográfico</h1>
 
 <p align="center">
