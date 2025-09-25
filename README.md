@@ -1,14 +1,14 @@
 <h1 align="center">💀VhSynth</h1>
 
 <p align="center">
-  🎓 18 anos | 💻 Fullstack Developer | 🚀 Apaixonado por Tecnologia
+  🎓 18 anos | 💻 Fullstack Developer |
 </p>
 
 ---
 
 ## 👾 Sobre mim
 - 🔹 Estudante de **Análise e Desenvolvimento de Sistemas**  
-- 🔹 programação, backend, frontend e segurança digital
+- 🔹 Programador **Back-End, Front-End, Desenvolvedor Web e Cybersecurity**
 - 🔹 Experiência com **Python, C, C++, Java, TypeScript, JavaScript, Django**   
 
 ---
