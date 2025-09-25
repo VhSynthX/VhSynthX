@@ -1,22 +1,7 @@
-<p align="center">
-⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛  
-⬛⬛⬛⬛⬜⬜⬜⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛  
-⬛⬛⬛⬜🐱🐱⬜⬛⬛⬛⬛⬛⬛⬜🐱🐱⬜⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛  
-⬛⬛⬛⬜🐱⬜🐱⬛⬛⬛⬛⬛⬛⬜🐱⬜🐱⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛  
-⬛⬛⬛⬛⬜⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛  
-⬛⬛⬛⬛⬜⬜⬛⬛⬛⬛⬛⬛⬛⬜⬜⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛  
-⬛⬛⬛⬜⬛⬜⬜⬜⬛⬛⬛⬛⬛⬛⬜⬜⬜⬛⬜⬛⬛⬛⬛⬛⬛⬛⬛  
-⬛⬛⬛⬜⬛⬜⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬛⬜⬛⬛⬛⬛⬛⬛⬛  
-⬛⬛⬛⬛⬜⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛  
-⬛⬛⬛⬛⬜⬜⬜⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛  
-⬛⬛⬛⬛⬛⬜⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛  
-⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛  
-</p>
-
 <h1 align="center">💀 VhSynth 💻</h1>
 
 <p align="center">
-🎓 Victor Hugo | 18 anos | Fullstack Developer | 👾 Hacker Mindset
+  🎓 Victor Hugo | 18 anos | Fullstack Developer | 👾 Hacker Mindset
 </p>
 
 ---
@@ -46,29 +31,28 @@
 
 ---
 
-## 🌐 Redes Sociais Animadas
+## 🌐 Redes Sociais
 
 <p align="center">
 <a href="https://github.com/VhSynthX" target="_blank">
-  ![GitHub followers](https://img.shields.io/github/followers/VhSynthX?style=social)
-</a> &nbsp;&nbsp;
+  🐱‍💻 <b>GitHub</b>
+</a> &nbsp;&nbsp;|&nbsp;&nbsp;
 <a href="https://www.instagram.com/_victorr.zx7" target="_blank">
-  ![Instagram](https://img.shields.io/badge/Instagram-📸-E4405F?style=for-the-badge)
-</a> &nbsp;&nbsp;
+  🖤📸 <b>Instagram</b>
+</a> &nbsp;&nbsp;|&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/victor-h-84273b2bb" target="_blank">
-  ![LinkedIn](https://img.shields.io/badge/LinkedIn-💼-0077B5?style=for-the-badge)
-</a> &nbsp;&nbsp;
+  💼🔗 <b>LinkedIn</b>
+</a> &nbsp;&nbsp;|&nbsp;&nbsp;
 <a href="https://wa.me/5521968230101" target="_blank">
-  ![WhatsApp](https://img.shields.io/badge/WhatsApp-📱-25D366?style=for-the-badge)
+  📱💬 <b>WhatsApp</b>
 </a>
 </p>
 
 ---
 
-## ⚡ Mindset Hacker Animado
+## ⚡ Mindset Hacker
 
 ```bash
 > echo "Code, Create, Dominate."  
 > print("No excuses, just results.")  
 > console.log("Always learning, always evolving.")  
-> echo "🚀💻👾🔥"  
