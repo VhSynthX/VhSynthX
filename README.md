@@ -8,9 +8,8 @@
 
 ## 👾 Sobre mim
 - 🔹 Estudante de **Análise e Desenvolvimento de Sistemas**  
-- 🔹 Apaixonado por **programação, backend, frontend e segurança digital**  
-- 🔹 Experiência com **Python, C, C++, Java, TypeScript, JavaScript, Django**  
-- 🔹 Objetivo: **transformar ideias em soluções reais**  
+- 🔹 programação, backend, frontend e segurança digital
+- 🔹 Experiência com **Python, C, C++, Java, TypeScript, JavaScript, Django**   
 
 ---
 
